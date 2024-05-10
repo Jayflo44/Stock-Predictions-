@@ -1,1 +1,1 @@
-# Stock-Predictions-
+# LSTM Stock-Predictions-
